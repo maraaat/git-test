@@ -1,2 +1,6 @@
 hello dev file
+<<<<<<< HEAD
 other
+=======
+adder
+>>>>>>> 72ee341 (change)
