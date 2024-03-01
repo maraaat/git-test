@@ -1,6 +1,3 @@
 hello dev file
-<<<<<<< HEAD
+hi guys
 other
-=======
-adder
->>>>>>> 72ee341 (change)
